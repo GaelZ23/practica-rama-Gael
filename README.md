@@ -6,7 +6,7 @@ title: "Gestión de Ramas y Pull Request en GitHub"
 author: "Gael Espinosa"
 fecha: "16/10/2025"
 rama_respaldo: "respaldo-161024-GE"
-repositorio: "https://github.com/tu-usuario/practica-ramas-gael"
+repositorio: "https://github.com/GaelZ23/practica-rama-Gael"
 
 ---
 
